@@ -89,9 +89,9 @@
       "powerline_symbol": "",
       "foreground": "#ffffff",
       "background": "#8800dd",
-      "template": " <#fefefe></> {{ .FormattedMs }} ",
+      "template": "{{ .FormattedMs }} ",
       "properties": {
-        "threshold": 500,
+        "threshold": 0,
         "style": "austin",
         "always_enabled": true
       }
