@@ -82,6 +82,19 @@
         "paused_icon": "⏸ ",
         "stopped_icon": "⏹ "
       }
+    },
+    {
+      "type": "executiontime",
+      "style": "powerline",
+      "powerline_symbol": "",
+      "foreground": "#ffffff",
+      "background": "#8800dd",
+      "template": " <#fefefe></> {{ .FormattedMs }} ",
+      "properties": {
+        "threshold": 500,
+        "style": "austin",
+        "always_enabled": true
+      }
     }
   ],
   "version": 2
