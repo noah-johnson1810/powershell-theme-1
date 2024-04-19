@@ -21,13 +21,13 @@
         {
           "background": "#00a9b9",
           "foreground": "#1D2021",
-          "powerline_symbol": " \ue0b0 ",
+          "powerline_symbol": "\ue0b0 ",
           "properties": {
             "folder_separator_icon": "/",
             "style": "folder"
           },
           "style": "powerline",
-          "template": " \ue5ff {{ .Path }} ",
+          "template": "\ue5ff {{ .Path }} ",
           "type": "path"
         },
         {
@@ -51,7 +51,7 @@
             "always_enabled": true
           },
           "style": "powerline",
-          "template": "\u265E ",
+          "template": " \u265E ",
           "icon_size": 1,
           "type": "status"
         }
