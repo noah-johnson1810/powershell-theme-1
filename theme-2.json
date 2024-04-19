@@ -70,6 +70,18 @@
         }
       ],
       "type": "prompt"
+    },
+    {
+      "type": "spotify",
+      "style": "powerline",
+      "powerline_symbol": "𝄞",
+      "foreground": "#ffffff",
+      "background": "#1BD760",
+      "properties": {
+        "playing_icon": "⏵ ",
+        "paused_icon": "⏸ ",
+        "stopped_icon": "⏹ "
+      }
     }
   ],
   "version": 2
