@@ -65,36 +65,11 @@
         {
           "foreground": "#ffb954",
           "style": "plain",
-          "template": "\u21A3  ",
+          "template": " \u21A3  ",
           "type": "text"
         }
       ],
       "type": "prompt"
-    },
-    {
-      "type": "spotify",
-      "style": "powerline",
-      "powerline_symbol": "𝄞",
-      "foreground": "#ffffff",
-      "background": "#1BD760",
-      "properties": {
-        "playing_icon": "⏵ ",
-        "paused_icon": "⏸ ",
-        "stopped_icon": "⏹ "
-      }
-    },
-    {
-      "type": "executiontime",
-      "style": "powerline",
-      "powerline_symbol": "",
-      "foreground": "#ffffff",
-      "background": "#8800dd",
-      "template": "{{ .FormattedMs }} ",
-      "properties": {
-        "threshold": 0,
-        "style": "austin",
-        "always_enabled": true
-      }
     }
   ],
   "version": 2
