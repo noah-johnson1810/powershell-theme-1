@@ -21,7 +21,7 @@
         {
           "background": "#00a9b9",
           "foreground": "#1D2021",
-          "powerline_symbol": "\ue0b0 ",
+          "powerline_symbol": " \ue0b0 ",
           "properties": {
             "folder_separator_icon": "/",
             "style": "folder"
