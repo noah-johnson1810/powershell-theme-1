@@ -12,7 +12,7 @@
         },
         {
           "background": "#00636c",
-          "foreground": "#ffb64e",
+          "foreground": "#1D2021",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
           "template": "- root \uf0e7",
@@ -20,7 +20,7 @@
         },
         {
           "background": "#00636c",
-          "foreground": "#ffb64e",
+          "foreground": "#1D2021",
           "powerline_symbol": "\ue0b0 ",
           "properties": {
             "folder_separator_icon": "/",
@@ -32,7 +32,7 @@
         },
         {
           "background": "#00636c",
-          "foreground": "#ffb64e",
+          "foreground": "#1D2021",
           "powerline_symbol": "\ue0b0",
           "properties": {
             "fetch_stash_count": true,
@@ -45,7 +45,7 @@
         {
           "background": "#00636c",
           "background_templates": ["{{ if gt .Code 0 }}#f1184c{{ end }}"],
-          "foreground": "#ffb64e",
+          "foreground": "#1D2021",
           "powerline_symbol": "\ue0b0",
           "properties": {
             "always_enabled": true
