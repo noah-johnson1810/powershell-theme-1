@@ -11,7 +11,7 @@
           "type": "os"
         },
         {
-          "background": "#273d1f",
+          "background": "#00bbcd",
           "foreground": "#75ce5a",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
@@ -19,7 +19,7 @@
           "type": "root"
         },
         {
-          "background": "#192c38",
+          "background": "#00d2e6",
           "foreground": "#79abda",
           "powerline_symbol": "\ue0b0 ",
           "properties": {
@@ -31,7 +31,7 @@
           "type": "path"
         },
         {
-          "background": "#233c4b",
+          "background": "#34edff",
           "foreground": "#9cceec",
           "powerline_symbol": "\ue0b0",
           "properties": {
@@ -43,7 +43,7 @@
           "type": "git"
         },
         {
-          "background": "#3e566d",
+          "background": "#81f4ff",
           "background_templates": ["{{ if gt .Code 0 }}#f1184c{{ end }}"],
           "foreground": "#e6e6e6",
           "powerline_symbol": "\ue0b0",
@@ -63,7 +63,7 @@
       "newline": false,
       "segments": [
         {
-          "foreground": "#24770b",
+          "foreground": "#cefbff",
           "style": "plain",
           "template": "\u21A3  ",
           "type": "text"
