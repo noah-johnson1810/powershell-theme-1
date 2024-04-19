@@ -11,7 +11,7 @@
           "type": "os"
         },
         {
-          "background": "#00929f",
+          "background": "#006c76",
           "foreground": "#1D2021",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
@@ -31,7 +31,7 @@
           "type": "path"
         },
         {
-          "background": "#00d8ec",
+          "background": "#68f2ff",
           "foreground": "#1D2021",
           "powerline_symbol": "\ue0b0",
           "properties": {
@@ -43,7 +43,7 @@
           "type": "git"
         },
         {
-          "background": "#39eeff",
+          "background": "#9bf7ff",
           "background_templates": ["{{ if gt .Code 0 }}#f1184c{{ end }}"],
           "foreground": "#1D2021",
           "powerline_symbol": "\ue0b0",
