@@ -5,7 +5,7 @@
       "alignment": "left",
       "segments": [
         {
-          "foreground": "#00636c",
+          "foreground": "#ffb954",
           "style": "plain",
           "template": "{{ if .WSL }}WSL at {{ end }}{{.Icon}} ",
           "type": "os"
@@ -63,7 +63,7 @@
       "newline": false,
       "segments": [
         {
-          "foreground": "#a0f7ff",
+          "foreground": "#ffb954",
           "style": "plain",
           "template": "\u21A3  ",
           "type": "text"
