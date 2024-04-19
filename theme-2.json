@@ -5,7 +5,7 @@
       "alignment": "left",
       "segments": [
         {
-          "foreground": "#24770b",
+          "foreground": "#008c9a",
           "style": "plain",
           "template": "{{ if .WSL }}WSL at {{ end }}{{.Icon}} ",
           "type": "os"
