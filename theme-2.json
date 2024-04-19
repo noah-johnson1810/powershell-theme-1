@@ -23,7 +23,7 @@
           "foreground": "#1D2021",
           "properties": {
             "folder_separator_icon": "/",
-            "style": "full"
+            "style": "folder"
           },
           "style": "powerline",
           "template": "\ue5ff {{ .Path }} ",
