@@ -51,7 +51,7 @@
             "always_enabled": true
           },
           "style": "powerline",
-          "template": " \u265E  ",
+          "template": "\u265E ",
           "icon_size": 1,
           "type": "status"
         }
